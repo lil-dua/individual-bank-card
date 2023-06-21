@@ -1,6 +1,5 @@
 # individual-bank-card
 
-<img src="Screenshot1.png" width = "450" > 
 
 Basic individual bank card development by Java. There're 3 main:
   - jcide: folder include source of code java card (this contain logic how to use smart card)
